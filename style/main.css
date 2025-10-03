@@ -9,11 +9,12 @@ body{
   font-weight: <weight>;
   font-style: normal;
 
-    }
+  }
 
 img{
    max-width: 100%;
    height: auto;
    display: block;
   margin: 2cm;
+  border: radius 50%;
 }
